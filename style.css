@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    background-color:coral;
+}
+.announcement{
+    background-color:aquamarine;
+}
+marquee{
+    font-size:25px;
+    font-family:fantasy;
+}
+#intro{
+    background-color:antiquewhite;
+}
+#cltitle{
+    font-family:cursive;
+    color:aliceblue;
+    font-size:35px;
+}
+p{
+    font-size:15px;
+    font-family:monospace;
+}
+#wnt{
+    font-family:cursive;
+    color:aliceblue;
+    font-size:35px;
+}
+#oc{
+    font-size:28px;
+    font-family:fantasy
+}
+#oci{
+    font-size:25px;
+}
+#cut{
+    font-family:cursive;
+    font-size:35px;
+    color:aliceblue;
+}
